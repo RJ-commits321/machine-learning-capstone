@@ -1,6 +1,6 @@
 # machine-learning-capstone
 
-IBM Machine Learning Capstone
+IBM Machine Learning Capstone (Course Recommendation System)
 
 Module 1: Introduction to recommender systems with EDA, text feature extraction (BoW), and course similarity using cosine similarity.
 
